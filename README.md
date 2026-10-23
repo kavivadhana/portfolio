@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# 🌐 Personal Portfolio — Kavi Vadhana
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Built With React](https://shields.io)](https://react.dev)
+[![Vite](https://shields.io)](https://vitejs.dev)
+[![License: MIT](https://shields.io)](https://opensource.org)
 
-## Available Scripts
+Welcome to my personal portfolio repository! This website showcases my journey as an **Electronics and Communication Engineering (ECE) student and Developer**. It serves as a central hub for my technical skills, academic background, coding profiles, and creative projects.
 
-In the project directory, you can run:
+🔗 **[Live Demo Link Coming Soon]**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📖 Table of Contents
+- [✨ About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Featured Projects](#-featured-projects)
+- [🎯 Key Features](#-key-features)
+- [🚀 Getting Started](#-getting-started)
+- [📌 Future Roadmap](#-future-roadmap)
+- [📬 Contact & Connect](#-contact--connect)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ About Me
+I am an ECE undergraduate student passionate about bridging the gap between hardware concepts and software solutions. I love building responsive web applications, solving algorithmic challenges, and exploring creative designs. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Frontend & Tooling**
+* **Core:** HTML5, CSS3, JavaScript (ES6+)
+* **Framework:** React.js
+* **Build Tool:** Vite
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Developer Profiles & Frameworks**
+* **Coding Platforms:** LeetCode / HackerRank / CodeChef *(Update with your specific links!)*
+* **Version Control:** Git & GitHub
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📂 Featured Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎬 Netflix Clone** | A front-end replica of the Netflix streaming platform, focusing on layout accuracy and responsive UI components. | React, CSS, Vite |
+| **💬 Messenger UI** | A clean, modern chat interface designed with micro-interactions and smooth message layouts. | React, CSS |
+| **📝 Advanced To-Do List** | A productivity application featuring task state persistence, categories, and dynamic filtering. | JavaScript, HTML, CSS |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎯 Key Features
+* **Modular Architecture:** Built using scalable, reusable React components.
+* **Responsive Layouts:** Designed to adapt flawlessly from mobile screens to desktop monitors.
+* **Interactive UI:** Smooth transitions and hover states for an engaging user experience.
+* **Centralized Hub:** Direct access to my active coding profiles and academic achievements.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Follow these instructions to set up and run the project locally on your machine.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
+Make sure you have **Node.js** (v14 or higher) and **npm** installed.
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
 
-### Analyzing the Bundle Size
+2. **Navigate into the project directory:**
+   ```bash
+   cd your-repo-name
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-### Making a Progressive Web App
+4. **Start the local development server:**
+   ```bash
+   npm run dev
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+5. Open your browser and navigate to the local URL displayed in your terminal (usually `http://localhost:5173`).
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📌 Future Roadmap
+* [ ] Integrate dark/light theme switching.
+* [ ] Connect a headless CMS or custom API backend to dynamically load new projects.
+* [ ] Optimize SEO metrics and asset loading speeds.
+* [ ] Embed dynamic LeetCode / GitHub stats widgets on the dashboard.
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📬 Contact & Connect
 
-### `npm run build` fails to minify
+Let's collaborate or talk about technology!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **GitHub:** https://github.com/kavivadhana
+* **LinkedIn:** www.linkedin.com/in/kavi-vadhana-r
+  
+
+---
+*Built with curiosity, code, and creativity. ✨*  
+**— Kavi Vadhana**
